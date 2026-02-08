@@ -1,0 +1,7 @@
+id = "pycharm-modern"
+name = "Pycharm Modern Themes"
+version = "0.0.1"
+schema_version = 1
+authors = ["injirez"]
+description = "Pycharm Modern Themes 🐍⚡"
+repository = "https://github.com/injirez/zed-pycharm-modern-theme"
