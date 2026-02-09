@@ -182,6 +182,11 @@
           }
         ],
         "syntax": {
+          "class_definition.assignment": {
+            "color": "#B3AE60FF",
+            "font_style": null,
+            "font_weight": null
+          },
           "attribute.builtin": {
             "color": "#B3AE60FF",
             "font_style": null,
@@ -208,8 +213,8 @@
             "font_weight": null
           },
           "constant": {
-            "color": "#D99D36FF",
-            "font_style": "italic",
+            "color": "#BCBEC4FF",
+            "font_style": null,
             "font_weight": null
           },
           "constant.builtin": {
