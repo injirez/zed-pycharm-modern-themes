@@ -307,6 +307,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "keyword.operator": {
+            "color": "#CF8E6DFF",
+            "font_style": null,
+            "font_weight": null
+          },
           "label": {
             "color": "#BCBEC4FF",
             "font_style": null,
